@@ -7,7 +7,7 @@
         "patch": 0
     },
     "tags": {},
-    "logoURI": "https://github.com/WYKKUHJGHJ/OUSD-logo/blob/main/OUSD-logo.PNG",
+    "logoURI": "https://raw.githubusercontent.com/WYKKUHJGHJ/OUSD_Logo/main/Logo.PNG",
     "keywords": [
         "OUSD",
         "stablecoin",
@@ -20,7 +20,7 @@
             "address": "0x1d6379d96fef9854944f43b7018ad4a7373ed338",
             "decimals": 18,
             "chainId": 1,
-            "logoURI": "https://github.com/WYKKUHJGHJ/OUSD-logo/blob/main/OUSD-logo.PNG"
+            "logoURI": "https://raw.githubusercontent.com/WYKKUHJGHJ/OUSD_Logo/main/Logo.PNG"
         }
     ]
 }
